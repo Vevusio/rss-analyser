@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <language>en-US</language>
+        <item>
+            <title>alice in wonderland</title>
+            <link>https://alice.com/alice1</link>
+        </item>
+        <item>
+            <title>where's Alice</title>
+            <link>https://alice.com/alice2</link>
+        </item>
+    </channel>
+</rss>

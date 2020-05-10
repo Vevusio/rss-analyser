@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <language>en-US</language>
+        <item>
+            <title>hey bob</title>
+            <link>https://bob.com/bob1</link>
+        </item>
+        <item>
+            <title>bob wins</title>
+            <link>https://bob.com/bob2</link>
+        </item>
+        <item>
+            <title>look over there Bob</title>
+            <link>https://bob.com/bob3</link>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <link>https://missing.com/feed-has-no-title</link>
+        </item>
+        <item>
+            <title>feed has no link</title>
+        </item>
+        <item>
+        </item>
+        <item>
+            <title>finally</title>
+            <link>https://atlast.com/one-good-item</link>
+        </item>
+    </channel>
+</rss>
